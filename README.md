@@ -3,4 +3,4 @@
 
 Primeiro repositório criado do curso de Git e GitHub.
 
-linha adicionada diretamente do Site.
+Linha adicionada diretamente do Site.
